@@ -1,0 +1,11 @@
+.header {
+    height: auto;
+    padding-inline: 48px;
+    text-align: center;
+    line-height: 64px;
+    color: #ffffff;
+    background-color: #4096ff;
+}
+.title {
+    color: #f5f5f5 !important;
+}

@@ -1,0 +1,9 @@
+.content {
+    padding: 48px;
+}
+.section {
+    min-height: 280px;
+    padding: 24px;
+    border-radius: 10px;
+    background: #ffffff;
+}
