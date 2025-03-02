@@ -19,8 +19,8 @@
 1. **Клонировать репозиторий**
 
     ```bash
-    git clone https://github.com/Borchan/testprov.git
-    cd testprov
+    git clone https://github.com/Borchan/userlist.git
+    cd userlist
     ```
 
 2. **Установить зависимости**
